@@ -20,6 +20,7 @@
 
 ![NotePad ++](/img/NPpp.gif "NotePad ++")
 
+> [To'liq ro'yhat...](https://github.com/collections/text-editors)
 
 ## Grafik yaratish/tahrirlash - Kompyuter TOP dasturlar:
 1. Adobe Photoshop - [yuklash](https://prodesigntools.com/adobe-cc-2019-direct-download-links.html)
