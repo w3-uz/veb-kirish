@@ -33,7 +33,7 @@
 
 **WebMaster Lite** - [Yuklash](https://apkpure.com/ru/webmaster-s-html-editor-lite/com.welant.webmaster.DEMO) 1MB
 
-![WebMaster Lite](/img/WebMaster-Lite.jpg "WebMaster Lite")
+![WebMaster Lite](/img/WebMaster-Lite-screen.jpg "WebMaster Lite")
 
 ## Grafik yaratish/tahrirlash - Kompyuter TOP dasturlar:
 Figma - [rasmiy sayt](https://www.figma.com/) va [rasmiy saytidan yuklash](https://www.figma.com/downloads/)
