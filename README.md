@@ -50,7 +50,7 @@ Adobe Photoshop - [Windows dastur yuklash](https://filecr.com/windows/photoshop/
 Paint.NET - [dasturni rasmiy saytdan yuklash](http://paintnet.ru/download/)
 
 ## HTML nima?
-**HTML veb-sahifalarni yaratish uchun tildir...** | `Fayl.html`
+**HTML Veb-sahifa/saytlarni yaratish uchun standart til...** | `Fayl.html`
 
 *Masofaviy xizmatlar/Onlayn Ochiq va Yopiq fayllarni junatish/tarqatish va matnlar, qidirish, jadvallar, ro'yxatlar, fotosuratlar va videokliplarni, ovozli roliklarni va fayllar qo'shish va boshqa medialarni amalga oshirish mumkin...*
 
