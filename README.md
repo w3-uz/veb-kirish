@@ -8,32 +8,38 @@
 
 ## Kod yozish/tahrirlash - Kompyuter TOP dasturlar:
 
-**Sublime Text** - [Rasmiy saytdan](https://www.sublimetext.com/3) yuklash...
+### Sublime Text
+[Rasmiy saytdan yuklash](https://www.sublimetext.com/3)
 
-![Sublime Text](/img/ST.gif "Sublime Text")
+![Sublime Text](img/ST.gif "Sublime Text")
 
-**Visual Studio Code**  - [Rasmiy saytdan](https://code.visualstudio.com) yuklash...
+### Visual Studio Code
+[Rasmiy saytdan yuklash](https://code.visualstudio.com)
 
-![VSC Screnshoot](/img/VSC.gif "VSC Screnshoot")
+![VSC Screnshoot](img/VSC.gif "VSC Screnshoot")
 
-**NotePad ++** - [Rasmiy saytdan](https://notepad-plus-plus.org/downloads/) yuklash...
+### NotePad ++
+[Rasmiy saytdan yuklash](https://notepad-plus-plus.org/downloads/)
 
-![NotePad ++](/img/NPpp.gif "NotePad ++")
+![NotePad ++](img/NPpp.gif "NotePad ++")
 
-> [Dasturlarni to'liq ro'yhati...](https://github.com/collections/text-editors)
+> [Boshqa dasturlar...](https://github.com/collections/text-editors)
 
 ## Android/Mobil TOP-dasturlar:
-**Acode** - [Yuklash](https://apkpure.com/ru/acode-powerful-code-editor/com.foxdebug.acodefree) 7.6MB
+### Acode
+[Yuklash](https://apkpure.com/ru/acode-powerful-code-editor/com.foxdebug.acodefree) - 7.6MB
 
-![Acode](/img/ACode-screen.jpg "Acode")
+![Acode](img/ACode-screen.jpg "Acode")
 
-**TrebEdit** - [Yuklash](https://apkpure.com/ru/trebedit-mobile-html-editor/com.teejay.trebedit) 6.1MB
+### TrebEdit
+[Yuklash](https://apkpure.com/ru/trebedit-mobile-html-editor/com.teejay.trebedit) - 6.1MB
 
-![TrebEdit](/img/TrebEdit-screen.jpg "TrebEdit")
+![TrebEdit](img/TrebEdit-screen.jpg "TrebEdit")
 
-**WebMaster Lite** - [Yuklash](https://apkpure.com/ru/webmaster-s-html-editor-lite/com.welant.webmaster.DEMO) 1MB
+### WebMaster Lite
+[Yuklash](https://apkpure.com/ru/webmaster-s-html-editor-lite/com.welant.webmaster.DEMO) - 1MB
 
-![WebMaster Lite](/img/WebMaster-Lite-screen.jpg "WebMaster Lite")
+![WebMaster Lite](img/WebMaster-Lite-screen.jpg "WebMaster Lite")
 
 ## Grafik yaratish/tahrirlash - Kompyuter TOP dasturlar:
 Figma - [rasmiy sayt](https://www.figma.com/) va [rasmiy saytidan yuklash](https://www.figma.com/downloads/)
@@ -80,7 +86,7 @@ Paint.NET - [dasturni rasmiy saytdan yuklash](http://paintnet.ru/download/)
 - Barcha HTML elementlari uchun usullar...
 - Barcha HTML elementlari uchun kodlar...
 
-![HTML DOM](/img/HTML-DOM.jpg "HTML DOM")
+![HTML DOM](img/HTML-DOM.jpg "HTML DOM")
 
 ```HTML
 ⬇️<!DOCTYPE html>
