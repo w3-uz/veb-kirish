@@ -4,7 +4,7 @@
 
 - va Futbolchiga esa  maxsus Futbol maydoni kerak...
 - va Oshpazga esa maxsus Oshona kerak...
-- va Dasturchiga esa maxsus dastur yoki dasturlar kerak bo'ladi...
+- va VebDasturchiga esa maxsus dastur yoki dasturlar kerak bo'ladi...
 
 ## Kod yozish/tahrirlash - Kompyuter TOP dasturlar:
 
@@ -16,11 +16,14 @@
 
 ![VSC Screnshoot](/img/VSC.gif "VSC Screnshoot")
 
-**NotePad ++** - [Rasmiy saytdan](https://pages.github.com/) yuklash...
+**NotePad ++** - [Rasmiy saytdan](https://notepad-plus-plus.org/downloads/) yuklash...
 
 ![NotePad ++](/img/NPpp.gif "NotePad ++")
 
 > [Dasturlarni to'liq ro'yhati...](https://github.com/collections/text-editors)
+
+## Telefon/Planshet Android/Mobil TOP-dasturlar:
+...
 
 ## Grafik yaratish/tahrirlash - Kompyuter TOP dasturlar:
 Figma - [rasmiy sayt](https://www.figma.com/) va [rasmiy saytidan yuklash](https://www.figma.com/downloads/)
