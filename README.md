@@ -22,8 +22,18 @@
 
 > [Dasturlarni to'liq ro'yhati...](https://github.com/collections/text-editors)
 
-## Telefon/Planshet Android/Mobil TOP-dasturlar:
-...
+## Android/Mobil TOP-dasturlar:
+**Acode** - [Yuklash](https://apkpure.com/ru/acode-powerful-code-editor/com.foxdebug.acodefree) 7.6MB
+
+![Acode](/img/ACode-screen.jpg "Acode")
+
+**TrebEdit** - [Yuklash](https://apkpure.com/ru/trebedit-mobile-html-editor/com.teejay.trebedit) 6.1MB
+
+![TrebEdit](/img/TrebEdit-screen.jpg "TrebEdit")
+
+**WebMaster Lite** - [Yuklash](https://apkpure.com/ru/webmaster-s-html-editor-lite/com.welant.webmaster.DEMO) 1MB
+
+![WebMaster Lite](/img/WebMaster-Lite.jpg "WebMaster Lite")
 
 ## Grafik yaratish/tahrirlash - Kompyuter TOP dasturlar:
 Figma - [rasmiy sayt](https://www.figma.com/) va [rasmiy saytidan yuklash](https://www.figma.com/downloads/)
