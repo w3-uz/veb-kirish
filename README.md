@@ -136,9 +136,6 @@ Github: [Kanal](https://github.com/w3-uz)
 
 Telegram: [Guruh](https://t.me/w3_uz_group) — [Kanal](https://t.me/w3_uz)
 
-## Repositoryni qo'llab-quvatlash:
-Agar siz **Repository**-ga **taklifingiz yoki o'z hisangizni qo'shmoqchi bo'lsangiz a yoki xatolik/kamchillik** ko'rgan bo'lsangiz **Fork/Pull Requests - Issues** qiling...
-
 **Foydalaningan Manba/Saytlar:**
 * [w3.org - HTML](https://www.w3.org/html/)
 * [w3.org -CSS](https://www.w3.org/Style/CSS/)
